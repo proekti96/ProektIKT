@@ -21,4 +21,10 @@ All kernels will be available to you in a Binder environment. You can use
 Julia or Python kernels separately, or use a SoS kernel to use both kernels
 in a single notebook.
 
-Дополнително, домашната/тетратката (notebook) располага со: Markdown, Latex, Plotly.
+Дополнително, домашната/тетратката (notebook) располага со: Markdown, Latex, Plotly (обични графици и интерактивни фигури). 
+Исто така, имам додавано соодветни декорации во текстот за стилски да изгледа добро, пример центрирање, додавање tab итн. 
+Имам додадено слики на два начина.
+
+Се ова и многу повеќе можете да го погледнете во тетратката доколку ја извршите и отворите на Binder, линкот е на почеток на овој документ. 
+
+За дополнителни информации контактирајте ме на:  janushevska.daniela@students.finki.ukim.mk . (CONTACT ME IF YOU NEED ANY HELP).
