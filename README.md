@@ -27,4 +27,5 @@ in a single notebook.
 
 Се ова и многу повеќе можете да го погледнете во тетратката доколку ја извршите и отворите на Binder, линкот е на почеток на овој документ. 
 
-За дополнителни информации контактирајте ме на:  janushevska.daniela@students.finki.ukim.mk . (CONTACT ME IF YOU NEED ANY HELP).
+За дополнителни информации контактирајте ме на:  janushevska.daniela@students.finki.ukim.mk . 
+(CONTACT ME IF YOU NEED ANY HELP).
